@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.margin-app {
+  margin-top: 60px;
+}
+
+.margin-nav {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 1000%;
+}
+
+.fondo {
+  background-image: url('/images/fiestaspatrias.webp');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 400px;
+}
+
+.fondo-bandera-chilena {
+  min-height: 100vh; /* que cubra toda la pantalla */
+  background: linear-gradient(90deg, #0032A0 0%, #DA291C 100%);
+}
+
+
