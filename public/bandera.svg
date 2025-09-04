@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <!-- Fondo blanco superior derecha -->
+  <rect x="400" y="0" width="800" height="400" fill="#fff"/>
+  <!-- Fondo azul superior izquierda -->
+  <rect x="0" y="0" width="400" height="400" fill="#0032A0"/>
+  <!-- Fondo rojo inferior -->
+  <rect x="0" y="400" width="1200" height="400" fill="#DA291C"/>
+  <!-- Estrella blanca en el centro del cuadrado azul -->
+  <polygon 
+    points="200,110 220,175 290,175 235,215 255,280 200,240 145,280 165,215 110,175 180,175"
+    fill="#fff"
+  />
+</svg>
